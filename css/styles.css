@@ -1,4 +1,11 @@
+
 div{
-    background-color: darkorchid;
+    background-color: rgb(113, 22, 199);
     width: 50%;
+    float: left;
+}
+.right{
+    width: 50%;
+    float: right;
+    background-color: rgb(26, 247, 26);
 }
